@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AgentSimulator", "AgentSimulator\AgentSimulator.vcproj", "{9AC68AD3-B45B-489D-8CB2-347DA24E2CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC68AD3-B45B-489D-8CB2-347DA24E2CBC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9AC68AD3-B45B-489D-8CB2-347DA24E2CBC}.Debug|Win32.Build.0 = Debug|Win32
+		{9AC68AD3-B45B-489D-8CB2-347DA24E2CBC}.Release|Win32.ActiveCfg = Release|Win32
+		{9AC68AD3-B45B-489D-8CB2-347DA24E2CBC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
