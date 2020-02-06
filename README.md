@@ -9,4 +9,4 @@
 ![主界面](https://github.com/zhongpan/SnmpSimulator/blob/master/screenshots/main.png)
 
 * trap
-![https://github.com/zhongpan/SnmpSimulator/blob/master/screenshots/trap.png)
+![trap](https://github.com/zhongpan/SnmpSimulator/blob/master/screenshots/trap.png)
